@@ -6,11 +6,11 @@ Getting a Tie in Tic-Tac-Toe game is really annoying. Ever thought of getting ri
 <h3>How it works: </h3>
 
 <h4>Concepts used </h4>
-Functions
-Loops
-Arrays
-Global variables
-Decision control statements
+Functions<br>
+Loops<br>
+Arrays<br>
+Global variables<br>
+Decision control statements<br>
 
 <h4>Game Logic</h4>
 If a player (say x) creates a winning pattern he win.
